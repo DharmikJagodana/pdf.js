@@ -1,5 +1,5 @@
 {
-  "name": "pdf.js",
+  "name": "pdf.js-test",
   "type": "module",
   "devDependencies": {
     "@babel/core": "^7.23.3",
